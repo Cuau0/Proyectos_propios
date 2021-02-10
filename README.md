@@ -1,2 +1,3 @@
-# Proyectos_propios
-Proyectos que he realizado en diferentes programas 
+# Proyectos propios
+
+Trabajos que he realizado a lo largo de mi vida estudiantil y fuera de ella. 
