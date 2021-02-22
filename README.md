@@ -21,7 +21,11 @@ Siguiendo una línea parecida a [Proyecto Covid en Python](https://github.com/Cu
 
 ## [Procesamiento de Lenguaje en comentarios E-Commerce con Python](https://github.com/Cuau0/Proyectos_propios/blob/main/Proces_de_Lenguaje_Nat.ipynb)
 
-Para este proyecto de Machine Learning puro se ideó planear un **modelo de clasificación** en el cual se pudiera distinguir con base en los comentarios, de clientes de productos de mujer, si estos recomendaban o no un producto. Con ello garantizar los posibles clientes que puedan volver a comprar algun producto en concreto y saber identificarlos para posibles estrategias de Marketing. Y además se creó un script para la **limpieza de comentarios** para la _bag of words_ y asi mejorar los modelos de ML que se puedan aplicar.
+Para este proyecto de Machine Learning puro se ideó planear un **modelo de clasificación** en el cual se pudiera distinguir con base en los comentarios, de clientes de productos de mujer, si estos recomendaban o no un producto. Con ello garantizar los posibles clientes que puedan volver a comprar algun producto en concreto y saber identificarlos para posibles estrategias de Marketing. Y además se creó un script para la **limpieza de comentarios** para la _bag of words_ y asi mejorar los modelos de ML que se puedan aplicar, donde se estructuró de esta manera:
+
+* Carga y limpieza de variables
+* Limpieza de comentarios para una mejora en la _bag of words_
+* Aplicación del modelo de ML
 
 ## Limpieza de variables y modelado de valores nulos.
 _En esta sección se crearon scripts para tener en cuenta para la **limpieza de variables y valores nulos**. Todo en lenguaje **Python**_
